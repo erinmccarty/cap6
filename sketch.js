@@ -41,7 +41,7 @@ function modelSkin(){
   
 //MODELONE
   push();
-  translate(-100, 0, 0);
+  translate(-300, 0, 0);
   ambientLight(255);
   scale(1000);
   
@@ -86,7 +86,7 @@ function modelCam(){
  
   //MODELONE
   push();
-  translate(-100, 0, 0);
+  translate(-300, 0, 0);
   ambientLight(255);
   scale(1000);
   
